@@ -68,7 +68,7 @@ public:
   const std::string& deviceUserID() const;
 
   /**
-   * Getter got the serial_number_ set from ros-parameter server
+   * Getter for the serial_number_ set from ros-parameter server
    */
   int serialNumber() const;
 
